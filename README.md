@@ -1,38 +1,20 @@
-# Hi, I'm Rishi 👋
+# Hey there! 👋
 
-🎓 Grade 11 student exploring technology and cybersecurity  
-🐍 Currently learning Python  
-🔐 Interested in ethical hacking and keeping systems secure  
-🛠️ Building small projects as I learn  
-📚 Improving my skills one step at a time  
+I’m Rishi, a Grade 11 student learning Python and exploring cybersecurity.
 
-## What I'm Learning
+I’m curious about how computers and networks work—and how to make them safer.
+
+## What I’m Learning
 - Python fundamentals
-- Computer networking basics
+- Networking basics
 - Cybersecurity fundamentals
 
-## Goals
-- Build useful projects
-- Practice problem-solving
-- Explore different cybersecurity career paths
+## What I’m Building
+Small projects and practice exercises as I learn. I’ll share them here and keep improving.
 
-## Connect
-- GitHub: RishiAagrwal609
-- Instagram: Rishi4garwal
+## A Few Things About Me
+- I enjoy solving problems and learning new things
+- I’m exploring different paths in cybersecurity
+- My goal is to build real skills, one project at a time
 
 Thanks for stopping by!
-
-<!--
-**RishiAgarwal609/RishiAgarwal609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
